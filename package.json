@@ -10,7 +10,7 @@
   "description": "Discord bot made to interact with chai.ml chatbots",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/xen-cyber/ChatBot-AI-Discord"
   },
   "main": "index.js",
   "scripts": {
